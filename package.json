@@ -12,7 +12,7 @@
     "url": "git+https://github.com/bagzvfx/wabileks.git"
   },
   "license": "MIT",
-  "author": "Rajeh Taher",
+  "author": "lekk4ri",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
