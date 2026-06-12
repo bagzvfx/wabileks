@@ -1,7 +1,7 @@
 {
   "name": "wabileks",
   "type": "module",
-  "version": "1.0.0-xupdate01",
+  "version": "1.0.0-xbeta01",
   "description": "A WebSockets library for interacting with WhatsApp Web",
   "keywords": [
     "whatsapp",
